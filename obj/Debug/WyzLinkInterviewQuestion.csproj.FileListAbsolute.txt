@@ -1,0 +1,7 @@
+C:\Users\jesse\source\repos\WyzLinkInterviewQuestion\WyzLinkInterviewQuestion\bin\Debug\WyzLinkInterviewQuestion.exe.config
+C:\Users\jesse\source\repos\WyzLinkInterviewQuestion\WyzLinkInterviewQuestion\bin\Debug\WyzLinkInterviewQuestion.exe
+C:\Users\jesse\source\repos\WyzLinkInterviewQuestion\WyzLinkInterviewQuestion\bin\Debug\WyzLinkInterviewQuestion.pdb
+C:\Users\jesse\source\repos\WyzLinkInterviewQuestion\WyzLinkInterviewQuestion\obj\Debug\WyzLinkInterviewQuestion.csprojResolveAssemblyReference.cache
+C:\Users\jesse\source\repos\WyzLinkInterviewQuestion\WyzLinkInterviewQuestion\obj\Debug\WyzLinkInterviewQuestion.csproj.CoreCompileInputs.cache
+C:\Users\jesse\source\repos\WyzLinkInterviewQuestion\WyzLinkInterviewQuestion\obj\Debug\WyzLinkInterviewQuestion.exe
+C:\Users\jesse\source\repos\WyzLinkInterviewQuestion\WyzLinkInterviewQuestion\obj\Debug\WyzLinkInterviewQuestion.pdb
